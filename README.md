@@ -1,3 +1,3 @@
 # DEMO
 
-learning git from freecodecamp
+learning git from freecodecamp!
